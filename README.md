@@ -46,3 +46,4 @@ This repository contains my learning journey of Python and Data Handling as part
 
 ## 👨‍💻 Author
 Harsh Vardhan Kushwaha
+Aspiring Front-End Developer & AI/ML Learner
