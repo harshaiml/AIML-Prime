@@ -1,13 +1,13 @@
 # AIML-Prime 🚀
 
-This repository contains my learning journey of Python and Data Handling as part of the AIML program.
+This repository showcases my learning journey in Python, Data Handling, and NumPy as part of my AI/ML program.
 
 ---
 
 ## 📚 Phase 1: Python Fundamentals
-- Basic Python concepts
-- Lists, loops, conditions
-- Functions and mini projects
+- Basic Python concepts (variables, loops, conditions)
+- Functions and problem-solving
+- Mini projects implementation
 
 ---
 
@@ -20,31 +20,44 @@ This repository contains my learning journey of Python and Data Handling as part
 
 ---
 
+## 🔢 Phase 3: NumPy Fundamentals
+- Array creation & data types
+- Multi-dimensional arrays & indexing
+- Vectorization & broadcasting
+- Mathematical operations (sum, mean, std, etc.)
+- Power, logarithmic & exponential functions
+- Rounding operations (ceil, floor, round)
+- Sorting, unique values & absolute operations
+- Vector normalization
+
+---
+
 ## 🛠️ Skills Learned
 - Python Programming
 - File Handling (TXT, JSON)
-- Data Cleaning
+- Data Cleaning & Preprocessing
 - Basic Data Analysis
+- NumPy for Numerical Computation
 - Problem Solving
 
 ---
 
 ## 📁 Project Structure
 - `Python Fundamentals/` → Basic concepts and assignments
-- `Phase-2 Data/` → Data handling and analysis projects
+- `Phase-2 Data/` → Data handling and analysis
+- `NumPy/` → NumPy practice and performance experiments
 
 ---
 
 ## 🚀 What's Next
-- Learning Numpy
-- Learning Pandas
-- Data Collection
-- Lerning SQL
-- Building real-world data projects
+- Learning Pandas for data analysis  
+- Working with CSV and real-world datasets  
+- Learning SQL for data querying  
+- Building real-world data projects  
+- Exploring Machine Learning basics  
 
 ---
 
 ## 👨‍💻 Author
-Harsh Vardhan Kushwaha
-
-Aspiring Front-End Developer & AI/ML Learner
+**Harsh Vardhan Kushwaha**  
+Aspiring AI/ML Engineer 🚀
