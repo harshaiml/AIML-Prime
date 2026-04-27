@@ -90,5 +90,5 @@ This repository showcases my learning journey in Python, Data Handling, NumPy, a
 ---
 
 ## 👨‍💻 Author
-**Harsh Vardhan Kushwaha**
+**Harsh Vardhan Kushwaha**  
 Aspiring AI/ML Engineer 🚀
