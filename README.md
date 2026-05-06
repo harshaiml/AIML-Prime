@@ -1,94 +1,112 @@
 # AIML-Prime 🚀
 
-This repository showcases my learning journey in Python, Data Handling, NumPy, and Pandas as part of my AI/ML program.
+This repository documents my AI/ML learning journey, covering Python programming, data analysis, SQL, and real-world data projects.
 
 ---
 
-## 📚 Phase 1: Python Fundamentals
-- Basic Python concepts (variables, loops, conditions)
-- Functions and problem-solving
+# 📚 Learning Journey
+
+## 🔹 Phase 1: Python Fundamentals
+- Variables, loops, and conditional statements
+- Functions & problem-solving
+- File handling with TXT & JSON
 - Mini projects implementation
 
 ---
 
-## 📊 Phase 2: Data Handling & Processing
-- Working with JSON & CSV data
-- Data cleaning (handling missing values, fixing inconsistencies)
-- Removing duplicate entries
-- Data analysis (average rating, insights)
-- Rule-based recommendation system
-
----
-
-## 🔢 Phase 3: NumPy Fundamentals
-- Array creation & data types
-- Multi-dimensional arrays & indexing
-- Vectorization & broadcasting
-- Mathematical operations (sum, mean, std, etc.)
-- Power, logarithmic & exponential functions
-- Rounding operations (ceil, floor, round)
-- Sorting, unique values & absolute operations
-- Vector normalization
-
----
-
-## 🐼 Phase 4: Pandas (Data Analysis)
+## 🔹 Phase 2: Data Handling & Processing
+- Working with JSON & CSV datasets
 - Data cleaning & preprocessing
 - Handling missing values & duplicates
-- Filtering & sorting datasets
+- Rule-based recommendation system
+- Exploratory data analysis
+
+---
+
+## 🔹 Phase 3: NumPy Fundamentals
+- Array creation & manipulation
+- Multi-dimensional arrays
+- Indexing & slicing
+- Broadcasting & vectorization
+- Mathematical operations
+- Statistical functions
+- Power, logarithmic & exponential functions
+- Sorting, unique values & normalization
+
+---
+
+## 🔹 Phase 4: Pandas for Data Analysis
+- DataFrames & Series
+- Data filtering & sorting
+- Handling null values & duplicates
 - GroupBy & aggregation
-- Merge / Join operations
+- Merge, Join & Concatenation
 - Pivot tables & reshaping
-- Working with CSV & JSON datasets
+- Working with CSV & JSON files
+- Data transformation techniques
 
 ---
 
-## 💼 Projects
+## 🔹 Phase 5: SQL Fundamentals
+- Database & table creation
+- CRUD operations
+- SELECT & WHERE queries
+- ORDER BY, LIMIT & DISTINCT
+- Aggregate functions
+- GROUP BY & HAVING clauses
+- Constraints & Keys
+- SQL assignments using MySQL Workbench
 
-### 📌 Product Rating Analyzer
+---
+
+# 💼 Projects & Assignments
+
+## 📌 Product Rating Analyzer
 - Processed CSV dataset
-- Cleaned missing values & removed duplicates
-- Applied filtering, sorting & analysis
-- Used GroupBy for extracting insights
-
-### 📌 Titanic Survival Analysis
-- Real-world dataset analysis
-- Data cleaning & feature engineering
-- Analyzed survival trends based on gender, class & age
-- Visualized insights using matplotlib
+- Cleaned missing values & duplicates
+- Applied filtering & sorting
+- Generated analytical insights
 
 ---
 
-## 🛠️ Skills Learned
+## 📌 Titanic Survival Analysis
+- Real-world dataset analysis
+- Data cleaning & preprocessing
+- Feature-based survival analysis
+- Visualization using Matplotlib
+
+---
+
+## 📌 Employee Database SQL Assignment
+- Created employee database schema
+- Performed filtering & aggregation queries
+- Used GROUP BY, HAVING & ORDER BY
+- Practiced real SQL assignment problems
+
+---
+
+# 🛠️ Skills Learned
+
 - Python Programming
-- File Handling (TXT, JSON, CSV)
+- NumPy
+- Pandas
+- SQL & MySQL
 - Data Cleaning & Preprocessing
-- NumPy for Numerical Computation
-- Pandas for Data Analysis
-- Data Visualization (Matplotlib)
+- File Handling (TXT, JSON, CSV)
+- Data Analysis
+- Data Visualization
 - Problem Solving
 
 ---
 
-## 📁 Project Structure
-- `Python Fundamentals/` → Basic concepts and assignments
-- `Phase-2 Data/` → Data handling and analysis
-- `NumPy/` → NumPy practice and performance experiments
-- `Pandas/` → Assignments and real-world projects
+# 📁 Repository Structure
 
----
-
-## 🚀 What's Next
-
-- 📦 Data Collection  
-- 🗄️ SQL (Part 1 & Part 2)  
-- 🔄 Data Collection (Advanced)  
-- 🌐 Web Scraping (Activity)  
-- 📊 Data Visualization (Part 1 & Part 2)  
-- 🌐 [Optional] Complete HTML Tutorial  
-
----
-
-## 👨‍💻 Author
-**Harsh Vardhan Kushwaha**  
-Aspiring AI/ML Engineer 🚀
+```bash
+AIML_Prime/
+│
+├── Python Fundamentals/
+├── Phase-2 Data/
+├── NumPy/
+├── Pandas/
+├── SQL/
+└── Projects/
