@@ -110,3 +110,21 @@ AIML_Prime/
 ├── Pandas/
 ├── SQL/
 └── Projects/
+```
+ 
+ # 🚀 Upcoming Topics
+ - Advanced SQL
+ - Data Collection
+ - Web Scraping
+ - Data Visualization
+ - Math for AI
+
+ # 🔗 Connect With Me
+ - 💼 LinkedIn: https://linkedin.com/in/harsh-vardhan-kushwaha-aiml/
+ - 💻 GitHub: https://github.com/harshaiml
+
+ # 🧑‍💻 Author
+
+ ## Harsh Vardhan Kushwaha
+- Aspiring AI/ML Engineer 🚀
+- Passionate about Data Science, AI, and Real-World Problem Solving.
