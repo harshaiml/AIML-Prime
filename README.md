@@ -1,125 +1,232 @@
 # AIML-Prime 🚀
 
-This repository documents my AI/ML learning journey, covering Python programming, data analysis, SQL, and real-world data projects.
+Welcome to my AI/ML learning journey repository.  
+This repository contains all my practice work, assignments, projects, notes, and activities completed during my AI/ML program.
+
+I am consistently learning and building skills in:
+- Python Programming
+- Data Analysis
+- SQL
+- Web Scraping
+- Machine Learning Fundamentals
 
 ---
 
-# 📚 Learning Journey
+# 📚 Course Progress
 
-## 🔹 Phase 1: Python Fundamentals
-- Variables, loops, and conditional statements
-- Functions & problem-solving
-- File handling with TXT & JSON
-- Mini projects implementation
-
----
-
-## 🔹 Phase 2: Data Handling & Processing
-- Working with JSON & CSV datasets
-- Data cleaning & preprocessing
-- Handling missing values & duplicates
-- Rule-based recommendation system
-- Exploratory data analysis
+## ✅ Python Fundamentals
+Covered core Python concepts:
+- Variables & Data Types
+- Conditions & Loops
+- Functions
+- Lists, Tuples, Dictionaries & Sets
+- File Handling
+- Error Handling
+- Problem Solving Practice
 
 ---
 
-## 🔹 Phase 3: NumPy Fundamentals
-- Array creation & manipulation
-- Multi-dimensional arrays
-- Indexing & slicing
-- Broadcasting & vectorization
-- Mathematical operations
-- Statistical functions
-- Power, logarithmic & exponential functions
-- Sorting, unique values & normalization
+## ✅ Data Handling & Processing
+Worked with different data formats:
+- TXT Files
+- CSV Files
+- JSON Files
+
+Learned:
+- Data Cleaning
+- Handling Missing Values
+- Removing Duplicates
+- Data Filtering & Sorting
+- Rule-Based Recommendation Systems
 
 ---
 
-## 🔹 Phase 4: Pandas for Data Analysis
+# 🔢 NumPy (Numerical Python)
+Learned numerical computing using NumPy:
+- Arrays & Data Types
+- Multi-Dimensional Arrays
+- Indexing & Slicing
+- Broadcasting & Vectorization
+- Mathematical Operations
+- Statistical Functions
+- Logarithmic & Exponential Functions
+- Sorting & Unique Values
+- Normalization Techniques
+
+---
+
+# 🐼 Pandas (Data Analysis)
+Performed real-world data analysis using Pandas:
 - DataFrames & Series
-- Data filtering & sorting
-- Handling null values & duplicates
-- GroupBy & aggregation
-- Merge, Join & Concatenation
-- Pivot tables & reshaping
-- Working with CSV & JSON files
-- Data transformation techniques
+- Reading CSV & JSON Data
+- Data Cleaning & Preprocessing
+- Handling Missing Values
+- GroupBy Operations
+- Merge & Join
+- Pivot Tables
+- Filtering & Aggregation
 
 ---
 
-## 🔹 Phase 5: SQL Fundamentals
-- Database & table creation
-- CRUD operations
-- SELECT & WHERE queries
-- ORDER BY, LIMIT & DISTINCT
-- Aggregate functions
-- GROUP BY & HAVING clauses
+# 🗄️ SQL (Part 1 & Part 2)
+
+Learned database management and SQL queries:
+- CREATE, INSERT, UPDATE, DELETE
+- WHERE, ORDER BY, GROUP BY
+- Aggregate Functions
 - Constraints & Keys
-- SQL assignments using MySQL Workbench
+- Transactions & ACID Properties
+- COMMIT, ROLLBACK & SAVEPOINT
+- INNER JOIN, LEFT JOIN, RIGHT JOIN
+- OUTER JOIN & CROSS JOIN
+- SELF JOIN
+- Subqueries
+- Views
+- Indexes & Composite Indexes
+- Stored Procedures
 
 ---
 
-# 💼 Projects & Assignments
+# 🌐 HTML Fundamentals
+
+Completed HTML basics and structure:
+- HTML Overview
+- Important Tags
+- Attributes
+- Forms & Tables
+- Semantic HTML
+- Page Structure
+
+---
+
+# 🕸️ Web Scraping & Data Collection
+
+Learned web scraping using:
+- Requests Library
+- BeautifulSoup
+
+Implemented:
+- Multi-page scraping
+- HTML parsing
+- Tag extraction
+- Quote & author extraction
+- Pagination handling
+- Local HTML storage
+- Encoding handling
+
+---
+
+# 💼 Projects
 
 ## 📌 Product Rating Analyzer
-- Processed CSV dataset
-- Cleaned missing values & duplicates
-- Applied filtering & sorting
-- Generated analytical insights
+- Processed CSV datasets
+- Cleaned missing values
+- Removed duplicates
+- Performed filtering & sorting
+- Extracted insights using GroupBy
 
 ---
 
 ## 📌 Titanic Survival Analysis
 - Real-world dataset analysis
-- Data cleaning & preprocessing
-- Feature-based survival analysis
-- Visualization using Matplotlib
+- Data preprocessing
+- Feature analysis
+- Survival trend analysis
+- Data visualization using Matplotlib
 
 ---
 
-## 📌 Employee Database SQL Assignment
-- Created employee database schema
-- Performed filtering & aggregation queries
-- Used GROUP BY, HAVING & ORDER BY
-- Practiced real SQL assignment problems
+## 📌 Quotes Web Scraping Activity
+- Scraped quotes from multiple pages
+- Extracted quotes with specific tags
+- Saved HTML files locally
+- Parsed data using BeautifulSoup
 
 ---
 
 # 🛠️ Skills Learned
 
 - Python Programming
+- SQL & Database Management
+- Data Cleaning & Preprocessing
 - NumPy
 - Pandas
-- SQL & MySQL
-- Data Cleaning & Preprocessing
-- File Handling (TXT, JSON, CSV)
-- Data Analysis
 - Data Visualization
+- Web Scraping
+- HTML
 - Problem Solving
+- File Handling
+- API Basics
 
 ---
 
-# 📁 Repository Structure
+# 📂 Repository Structure
 
 ```bash
-AIML_Prime/
-│
-├── Python Fundamentals/
-├── Phase-2 Data/
-├── NumPy/
-├── Pandas/
-├── SQL/
-└── Projects/
+Python Fundamentals/
+NumPy/
+Pandas/
+SQL/
+HTML/
+Data Collection/
+Web Scraping (Activity)/
+Projects/
 ```
- 
- # 🚀 Upcoming Topics
- - Advanced SQL
- - Data Collection
- - Web Scraping
- - Data Visualization
- - Math for AI
 
- # 🔗 Connect With Me
+---
+
+# 🚀 Upcoming Topics
+
+- 📊 Data Visualization (Part 1 & Part 2)
+  - Matplotlib
+  - Seaborn
+  - Charts & Graphs
+  - Data Insights & Visualization
+
+- 🎲 Math for AI – Probability
+  - Probability Basics
+  - Conditional Probability
+  - Bayes Theorem
+  - Probability Distributions
+
+- 📐 Math for AI – Linear Algebra
+  - Vectors & Matrices
+  - Matrix Operations
+  - Dot Product
+  - Eigenvalues & Eigenvectors
+
+- 📈 Math for AI – Calculus
+  - Differentiation
+  - Gradients
+  - Optimization Basics
+
+- 🤖 Starting with Machine Learning
+  - Introduction to ML
+  - Features & Labels
+  - Model Training
+  - Train/Test Split
+
+- 🧠 Supervised Machine Learning (Part 1 & Part 2)
+  - Linear Regression
+  - Classification
+  - Model Evaluation
+  - Accuracy & Predictions
+  - Real-world ML Workflow
+
+---
+
+# 📈 Current Learning Goal
+
+Currently improving my:
+- Problem Solving Skills
+- SQL Query Writing
+- Data Analysis Skills
+- Web Scraping Techniques
+- AI/ML Fundamentals
+
+---
+
+ # 🤝 Connect With Me
  - 💼 LinkedIn: https://linkedin.com/in/harsh-vardhan-kushwaha-aiml/
  - 💻 GitHub: https://github.com/harshaiml
 
