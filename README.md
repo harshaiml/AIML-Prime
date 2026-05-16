@@ -161,7 +161,7 @@ Completed assignment-based analysis including:
 
 # 📂 Repository Structure
 
-
+```text
 AIML-Prime/
 │
 ├── Python & Data/
@@ -175,7 +175,8 @@ AIML-Prime/
 │   ├── Web Scraping (Activity)
 │   └── Data Visualization
 │
-├── README.md
+└── README.md
+```
 
 # 🎯 Upcoming Learning Path
 
