@@ -1,237 +1,263 @@
 # AIML-Prime 🚀
 
 Welcome to my AI/ML learning journey repository.  
-This repository contains all my practice work, assignments, projects, notes, and activities completed during my AI/ML program.
-
-I am consistently learning and building skills in:
-- Python Programming
-- Data Analysis
-- SQL
-- Web Scraping
-- Machine Learning Fundamentals
+This repository contains all my practice work, assignments, notes, activities, and projects completed during my AI/ML program.
 
 ---
 
-# 📚 Course Progress
+# 📚 Completed Curriculum : Python & Data
 
-## ✅ Python Fundamentals
-Covered core Python concepts:
+## 🐍 Python Fundamentals
+Covered core Python programming concepts including:
+
 - Variables & Data Types
-- Conditions & Loops
+- Operators
+- Conditional Statements
+- Loops
 - Functions
-- Lists, Tuples, Dictionaries & Sets
+- Lambda Functions
+- Lists, Tuples, Sets & Dictionaries
+- List Comprehensions
 - File Handling
-- Error Handling
-- Problem Solving Practice
-
----
-
-## ✅ Data Handling & Processing
-Worked with different data formats:
-- TXT Files
-- CSV Files
-- JSON Files
-
-Learned:
-- Data Cleaning
-- Handling Missing Values
-- Removing Duplicates
-- Data Filtering & Sorting
-- Rule-Based Recommendation Systems
+- JSON Module
+- Object Oriented Programming (OOPs)
 
 ---
 
 # 🔢 NumPy (Numerical Python)
-Learned numerical computing using NumPy:
-- Arrays & Data Types
-- Multi-Dimensional Arrays
+
+Worked on:
+
+- NumPy Arrays
+- Array Operations
 - Indexing & Slicing
-- Broadcasting & Vectorization
-- Mathematical Operations
-- Statistical Functions
-- Logarithmic & Exponential Functions
-- Sorting & Unique Values
-- Normalization Techniques
+- Broadcasting
+- Mathematical Functions
+- Statistical Operations
+- Reshaping Arrays
+- Random Module
 
 ---
 
-# 🐼 Pandas (Data Analysis)
-Performed real-world data analysis using Pandas:
-- DataFrames & Series
-- Reading CSV & JSON Data
-- Data Cleaning & Preprocessing
+# 🐼 Pandas
+
+Practiced:
+
+- Series & DataFrames
+- Reading CSV Files
+- Data Cleaning
 - Handling Missing Values
-- GroupBy Operations
-- Merge & Join
-- Pivot Tables
-- Filtering & Aggregation
+- Filtering Data
+- Sorting & Grouping
+- Aggregations
+- Data Analysis Operations
 
 ---
 
-# 🗄️ SQL (Part 1 & Part 2)
+# 🗄️ SQL
 
-Learned database management and SQL queries:
-- CREATE, INSERT, UPDATE, DELETE
-- WHERE, ORDER BY, GROUP BY
+Learned and practiced:
+
+- SELECT Queries
+- WHERE Conditions
+- ORDER BY
+- GROUP BY
 - Aggregate Functions
-- Constraints & Keys
-- Transactions & ACID Properties
-- COMMIT, ROLLBACK & SAVEPOINT
-- INNER JOIN, LEFT JOIN, RIGHT JOIN
-- OUTER JOIN & CROSS JOIN
-- SELF JOIN
+- JOINS
 - Subqueries
-- Views
-- Indexes & Composite Indexes
-- Stored Procedures
+- Database Operations
 
 ---
 
-# 🌐 HTML Fundamentals
+# 🌐 HTML Basics
 
-Completed HTML basics and structure:
-- HTML Overview
-- Important Tags
-- Attributes
-- Forms & Tables
-- Semantic HTML
-- Page Structure
+Covered:
+
+- HTML Structure
+- Forms
+- Tables
+- Semantic Tags
+- Media Elements
+- Basic Webpage Creation
 
 ---
 
-# 🕸️ Web Scraping & Data Collection
+# 📥 Data Collection
 
-Learned web scraping using:
-- Requests Library
-- BeautifulSoup
+Worked on:
+
+- APIs
+- JSON Data
+- Data Gathering Techniques
+- Python Requests Module
+
+---
+
+# 🕸️ Web Scraping (BeautifulSoup)
 
 Implemented:
-- Multi-page scraping
-- HTML parsing
-- Tag extraction
-- Quote & author extraction
-- Pagination handling
-- Local HTML storage
-- Encoding handling
+
+- HTML Parsing
+- Extracting Data from Websites
+- Multi-page Web Scraping
+- Tag & Class Selection
+- Data Storage using Files
+- Quotes Website Scraping Activity
 
 ---
 
-# 💼 Projects
+# 📊 Data Visualization
 
-## 📌 Product Rating Analyzer
-- Processed CSV datasets
-- Cleaned missing values
-- Removed duplicates
-- Performed filtering & sorting
-- Extracted insights using GroupBy
+Created visualizations using:
 
----
+## 📈 Matplotlib
 
-## 📌 Titanic Survival Analysis
-- Real-world dataset analysis
-- Data preprocessing
-- Feature analysis
-- Survival trend analysis
-- Data visualization using Matplotlib
+- Line Plots
+- Bar Charts
+- Histograms
+- Scatter Plots
+- Pie Charts
+- Box Plots
+- Subplots
+- Annotations
+- Plot Styling & Customization
 
----
+## 🎨 Seaborn
 
-## 📌 Quotes Web Scraping Activity
-- Scraped quotes from multiple pages
-- Extracted quotes with specific tags
-- Saved HTML files locally
-- Parsed data using BeautifulSoup
+- Relational Plots
+- Categorical Plots
+- Distribution Plots
+- Heatmaps
+- Statistical Visualizations
 
 ---
 
-# 🛠️ Skills Learned
+# 🧠 Data Visualization Assignments
 
-- Python Programming
-- SQL & Database Management
-- Data Cleaning & Preprocessing
+Completed assignment-based analysis including:
+
+- Histograms with Mean Interpretation
+- Scatter Plot Analysis
+- Box Plot Analysis
+- Heatmaps using Pivot Tables
+- Real Dataset Visualization using Seaborn
+
+---
+
+# 🛠️ Tools & Technologies
+
+- Python
 - NumPy
 - Pandas
-- Data Visualization
-- Web Scraping
-- HTML
-- Problem Solving
-- File Handling
-- API Basics
+- Matplotlib
+- Seaborn
+- BeautifulSoup
+- SQL
+- Jupyter Notebook
+- VS Code
+- Git & GitHub
 
 ---
 
 # 📂 Repository Structure
 
-```bash
-Python Fundamentals/
-NumPy/
-Pandas/
-SQL/
-HTML/
-Data Collection/
-Web Scraping (Activity)/
-Projects/
-```
+
+AIML-Prime/
+│
+├── Python & Data/
+│   ├── Python Fundamentals
+│   ├── NumPy (Numerical Python)
+│   ├── Pandas
+│   ├── SQL
+│   ├── HTML
+│   ├── Data Collection
+│   ├── Data Collection (continuation)
+│   ├── Web Scraping (Activity)
+│   └── Data Visualization
+│
+├── README.md
+
+# 🎯 Upcoming Learning Path
+
+## 🤖 Machine Learning
+- Mathematics for AI
+- Statistics & Probability
+- Linear Algebra
+- Calculus
+- Supervised Learning
+- Unsupervised Learning
+- Regression & Classification
+- Decision Trees
+- KNN Algorithm
+- Naive Bayes
+- Clustering
+- PCA (Dimensionality Reduction)
+- Reinforcement Learning
+- Scikit-learn
+- Kaggle Practice & Projects
 
 ---
 
-# 🚀 Upcoming Topics
-
-- 📊 Data Visualization (Part 1 & Part 2)
-  - Matplotlib
-  - Seaborn
-  - Charts & Graphs
-  - Data Insights & Visualization
-
-- 🎲 Math for AI – Probability
-  - Probability Basics
-  - Conditional Probability
-  - Bayes Theorem
-  - Probability Distributions
-
-- 📐 Math for AI – Linear Algebra
-  - Vectors & Matrices
-  - Matrix Operations
-  - Dot Product
-  - Eigenvalues & Eigenvectors
-
-- 📈 Math for AI – Calculus
-  - Differentiation
-  - Gradients
-  - Optimization Basics
-
-- 🤖 Starting with Machine Learning
-  - Introduction to ML
-  - Features & Labels
-  - Model Training
-  - Train/Test Split
-
-- 🧠 Supervised Machine Learning (Part 1 & Part 2)
-  - Linear Regression
-  - Classification
-  - Model Evaluation
-  - Accuracy & Predictions
-  - Real-world ML Workflow
+## 🧠 Deep Learning
+- Neural Networks
+- ANN (Artificial Neural Networks)
+- CNN (Convolutional Neural Networks)
+- RNN (Recurrent Neural Networks)
+- TensorFlow & PyTorch
+- Image Classification
+- Deep Learning Projects
 
 ---
 
-# 📈 Current Learning Goal
-
-Currently improving my:
-- Problem Solving Skills
-- SQL Query Writing
-- Data Analysis Skills
-- Web Scraping Techniques
-- AI/ML Fundamentals
+## ✨ GenAI
+- Generative AI Fundamentals
+- Prompt Engineering
+- LLM Basics
+- AI Tools & Applications
+- AI Assistants
+- OpenAI APIs
+- GenAI Projects
 
 ---
 
- # 🤝 Connect With Me
- - 💼 LinkedIn: https://linkedin.com/in/harsh-vardhan-kushwaha-aiml/
- - 💻 GitHub: https://github.com/harshaiml
+## ⚙️ AI Engineering Stack
+- FastAPI
+- Streamlit
+- Model Deployment
+- APIs
+- Docker Basics
+- GitHub Workflow
+- End-to-End AI Applications
 
- # 🧑‍💻 Author
+---
 
- ## Harsh Vardhan Kushwaha
-- Aspiring AI/ML Engineer 🚀
-- Passionate about Data Science, AI, and Real-World Problem Solving.
+## 🚀 Real-world Projects
+- Machine Learning Projects
+- Data Analysis Projects
+- AI-powered Applications
+- Portfolio Projects
+- Kaggle Competitions
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: [Harsh Vardhan Kushwaha](https://linkedin.com/in/harsh-vardhan-kushwaha-aiml/)
+- 💻 GitHub: [harshaiml](https://github.com/harshaiml)
+
+---
+
+## 👨‍💻 Author
+
+### Harsh Vardhan Kushwaha
+
+🚀 Aspiring AI/ML Engineer  
+📊 Passionate about Data Science, Machine Learning & Real-World Problem Solving  
+💡 Currently learning Python, Data Analysis, Data Visualization & Machine Learning  
+🔥 Building projects and improving skills consistently through hands-on practice
+
+---
+
+⭐ If you like this repository, consider giving it a star!
+
+```text
