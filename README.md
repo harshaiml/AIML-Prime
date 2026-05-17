@@ -178,6 +178,8 @@ AIML-Prime/
 └── README.md
 ```
 
+---
+
 # 🎯 Upcoming Learning Path
 
 ## 🤖 Machine Learning
